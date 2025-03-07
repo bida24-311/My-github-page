@@ -14,7 +14,7 @@ body {
 header {
 
    background-color: #4CAF50;
-   color: white;
+   color: blue;
    padding: 20px;
    text-align: center;
 }
@@ -24,7 +24,7 @@ header {
 }
 
 nav a {
-   color: white;
+   color: red;
    text-decoration: none;
    margin: 0 10px
 }
